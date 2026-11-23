@@ -1,0 +1,15 @@
+/2d_mixedFE_rotnonlin_SUPG.py
+/2d_mixedFE_rotnonlin_SUPG.py:Zone.Identifier
+/2d_mixed_SKETCH_nl_strGrdB0.py
+/2d_mixed_SKETCH_nl_strGrdB0.py:Zone.Identifier
+/2d_mixed_nl.py
+/2d_mixed_nl.py:Zone.Identifier
+/2d_mixed_nl_rot.py
+/2d_mixed_nl_rot.py:Zone.Identifier
+/__pycache__
+/output
+/output.pvd
+/output_2dnonlinRSW_vtxpair
+/output_2dnonlinRSW_vtxpair.pvd
+/split_initializations.py
+/split_initializations.py:Zone.Identifier
