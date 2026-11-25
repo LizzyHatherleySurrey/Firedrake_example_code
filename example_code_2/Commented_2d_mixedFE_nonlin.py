@@ -14,7 +14,7 @@ try:
 except:
     warning("Matplotlib not imported")
 
-# We then set the parameters for the scheme. ::
+# We then set the parameters for the scheme. :: 
 dt = 0.05 #timestep
 # dt = 0.01
 # ~ dt = 0.0005
